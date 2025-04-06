@@ -1,0 +1,6 @@
+example_id                          | status | run_time        |
+----------------------------------- | ------ | --------------- |
+./spec/models/task_spec.rb[1:1:1]   | passed | 0.01945 seconds |
+./spec/models/task_spec.rb[1:1:2]   | passed | 0.87229 seconds |
+./spec/models/task_spec.rb[1:2:1:1] | passed | 0.02809 seconds |
+./spec/models/task_spec.rb[1:2:2:1] | passed | 0.04871 seconds |
